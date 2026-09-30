@@ -1,0 +1,4 @@
+Info: Critical path report for clock 'clk$SB_IO_IN_$glb_clk':
+Info: 3.21 ns logic, 4.79 ns routing (5 logic, 4 routing)
+Info: Max frequency for clock 'clk$SB_IO_IN_$glb_clk': 125.00 MHz (PASS at 100.00 MHz)
+Warning: unconstrained path from reset
